@@ -50,12 +50,12 @@ NOTEBOOK_DIR = 'downloads/notebooks'
 THEME = './theme/'
 
 ABOUT_PAGE = '/pages/about.html'
-TWITTER_USERNAME = 'jakevdp'
-GITHUB_USERNAME = 'jakevdp'
-STACKOVERFLOW_ADDRESS = 'http://stackoverflow.com/users/2937831/jakevdp'
-AUTHOR_WEBSITE = 'http://vanderplas.com'
-AUTHOR_BLOG = 'http://jakevdp.github.io'
-AUTHOR_CV = "http://staff.washington.edu/jakevdp/media/pdfs/CV.pdf"
+TWITTER_USERNAME = 'mmngreco'
+GITHUB_USERNAME = 'mmngreco'
+STACKOVERFLOW_ADDRESS = 'http://stackoverflow.com/users/2937831/mmngreco'
+AUTHOR_WEBSITE = 'http://mmngreco.github.io'
+AUTHOR_BLOG = 'http://mmngreco.github.io'
+# AUTHOR_CV = "http://staff.washington.edu/mmngreco/media/pdfs/CV.pdf"
 SHOW_ARCHIVES = True
 SHOW_FEED = False  # Need to address large feeds
 
@@ -65,5 +65,5 @@ STATIC_PATHS = ['images', 'figures', 'videos', 'downloads', 'favicon.ico']
 
 # Footer info
 
-LICENSE_URL = "https://github.com/jakevdp/jakevdp.github.io-source/blob/master/LICENSE"
+LICENSE_URL = "https://github.com/mmngreco/mmngreco.github.io-source/blob/master/LICENSE"
 LICENSE = "MIT"
