@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Jake VanderPlas'
-SITENAME = 'Pythonic Perambulations'
-SITESUBTITLE = u'Musings and ramblings through the world of Python and beyond'
+AUTHOR = 'Maximiliano Greco'
+SITENAME = 'mmngreco'
+SITESUBTITLE = u'Notas de un economista que aprendío a programar.'
 SITEURL = ''
 PATH = 'content'
-TIMEZONE = 'America/Los_Angeles'
-DEFAULT_LANG = 'en'
+TIMEZONE = 'Europe/Madrid'
+DEFAULT_LANG = 'es'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
