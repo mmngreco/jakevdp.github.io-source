@@ -7,7 +7,7 @@ This repository contains the source for http://mmngreco.github.io/.
 Clone the repository & make sure submodules are included
 
 ```
-$ git clone https://github.com/mmngreco/mmngreco.github.io-source.git
+$ git clone https://github.com/mmngreco/mmngreco.github.io.git
 $ git submodule update --init --recursive
 ```
 
@@ -22,8 +22,7 @@ $ conda activate mmngreco36
 Build the html and serve locally:
 
 ```
-$ make html
-$ make serve
+$ make html && make serve
 $ open http://localhost:8000
 ```
 

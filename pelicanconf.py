@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+
 from __future__ import unicode_literals
 
 AUTHOR = 'Maximiliano Greco'
 SITENAME = 'mmngreco'
-SITESUBTITLE = u'Notas de un economista que aprendío a programar.'
+SITESUBTITLE = u'Notas de un economista que aprendió a programar.'
 SITEURL = ''
 PATH = 'content'
 TIMEZONE = 'Europe/Madrid'
@@ -65,5 +66,5 @@ STATIC_PATHS = ['images', 'figures', 'videos', 'downloads', 'favicon.ico']
 
 # Footer info
 
-LICENSE_URL = "https://github.com/mmngreco/mmngreco.github.io-source/blob/master/LICENSE"
+LICENSE_URL = "https://github.com/mmngreco/mmngreco.github.io/blob/master/LICENSE"
 LICENSE = "MIT"

@@ -21,4 +21,4 @@ FEED_USE_SUMMARY = True  # from the feed_summary plugin
 DELETE_OUTPUT_DIRECTORY = True
 
 DISQUS_SITENAME = "mmngreco"
-GOOGLE_ANALYTICS = "UA-34061646-1"
+GOOGLE_ANALYTICS = ""
