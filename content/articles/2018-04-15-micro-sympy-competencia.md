@@ -9,6 +9,9 @@ tags: microeconomía,sympy,equilibrio
 Después de mucho tiempo sin escribir, he decidido retomar la divulgación con algo que me parece muy útil, sobre todo durante la carrera me sirvió de gran ayuda, me refiero al cálculo simbólico en Python!
 
 Concretamente, en este post resuelvo un ejercicio muy común en Microeconomía, un mercado en competencia perfecta con varios sectores.
+
+{% notebook downloads/notebooks/competencia.ipynb cells[:5] %}
+
 <!-- PELICAN_END_SUMMARY -->
 
-{% notebook downloads/notebooks/competencia.ipynb cells[:] %}
+{% notebook downloads/notebooks/competencia.ipynb cells[5:] %}
