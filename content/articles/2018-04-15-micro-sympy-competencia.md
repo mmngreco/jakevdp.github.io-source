@@ -10,8 +10,8 @@ Después de mucho tiempo sin escribir, he decidido retomar la divulgación con a
 
 Concretamente, en este post resuelvo un ejercicio muy común en Microeconomía, un mercado en competencia perfecta con varios sectores.
 
-{% notebook downloads/notebooks/competencia.ipynb cells[:5] %}
+{% notebook downloads/notebooks/competencia.ipynb cells[:4] %}
 
 <!-- PELICAN_END_SUMMARY -->
 
-{% notebook downloads/notebooks/competencia.ipynb cells[5:] %}
+{% notebook downloads/notebooks/competencia.ipynb cells[4:] %}
