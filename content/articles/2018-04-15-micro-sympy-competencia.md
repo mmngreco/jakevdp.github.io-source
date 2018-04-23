@@ -2,16 +2,7 @@
 title: Microeconomía con Sympy:
 date: 2018-01-05T11:19:00+00:00
 author: Maximiliano Greco
-slug: Cómo usar cáclulo simbólico para resolver el equilibrio en competencia perfecta.
+slug: microeconomia-con-sympy
 tags: microeconomía,sympy,equilibrio
 
-<!-- PELICAN_BEGIN_SUMMARY -->
-Después de mucho tiempo sin escribir, he decidido retomar la divulgación con algo que me parece muy útil, sobre todo durante la carrera me sirvió de gran ayuda, me refiero al cálculo simbólico en Python!
-
-Concretamente, en este post resuelvo un ejercicio muy común en Microeconomía, un mercado en competencia perfecta con varios sectores.
-
-{% notebook downloads/notebooks/competencia.ipynb cells[:4] %}
-
-<!-- PELICAN_END_SUMMARY -->
-
-{% notebook downloads/notebooks/competencia.ipynb cells[4:] %}
+{% notebook downloads/notebooks/competencia.ipynb cells[:] %}
