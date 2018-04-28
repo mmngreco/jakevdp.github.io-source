@@ -1,6 +1,3 @@
-# Base image of the IPython/Jupyter notebook, with conda
-# Intended to be used in a tmpnb installation
-# Customized from https://github.com/jupyter/docker-demo-images/tree/master/common
 FROM continuumio/anaconda3:5.1.0
 
 MAINTAINER Maximiliano Greco <mmngreco@gmail.com>
