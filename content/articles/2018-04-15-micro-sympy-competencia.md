@@ -5,6 +5,8 @@ author: Maximiliano Greco
 slug: microeconomia-con-sympy
 tags: microeconomía,sympy,equilibrio
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mmngreco/mmngreco.github.io-source/master/?filepath=content/downloads/notebooks/competencia.ipynb)
+
 {% notebook downloads/notebooks/competencia.ipynb cells[:] %}
 
 Podéis acceder al notebook [aquí](https://github.com/mmngreco/mmngreco.github.io-source/blob/master/content/downloads/notebooks/competencia.ipynb).

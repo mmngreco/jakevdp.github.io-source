@@ -2,6 +2,7 @@ FROM continuumio/anaconda3:5.1.0
 
 MAINTAINER Maximiliano Greco <mmngreco@gmail.com>
 
+RUN pip install --no-cache-dir notebook==5.*
 ENV NB_USER mmngreco
 ENV NB_UID 1000
 ENV HOME /home/${NB_USER}
