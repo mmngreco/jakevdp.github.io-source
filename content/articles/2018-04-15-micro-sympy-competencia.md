@@ -9,8 +9,4 @@ tags: microeconomía,sympy,equilibrio
 
 {% notebook downloads/notebooks/competencia.ipynb cells[:] %}
 
-Podéis acceder al notebook [aquí](https://github.com/mmngreco/mmngreco.github.io-source/blob/master/content/downloads/notebooks/competencia.ipynb).
-
-Si os apetece podéis ejecutar el notebook online [aquí](https://mybinder.org/v2/gh/mmngreco/mmngreco.github.io-source/master/?filepath=content/downloads/notebooks/competencia.ipynb).
-
-Cualquier error o sugerencia, se aceptan [PR](https://github.com/mmngreco/mmngreco.github.io-source/pulls)! ;-)
+Podéis acceder al notebook [aquí](https://github.com/mmngreco/mmngreco.github.io-source/blob/master/content/downloads/notebooks/competencia.ipynb). También podéis ejecutar el notebook online [aquí](https://mybinder.org/v2/gh/mmngreco/mmngreco.github.io-source/master/?filepath=content/downloads/notebooks/competencia.ipynb) o desde el badge al inicio del post. Si véis cualquier error o sugerencia, se aceptan [PR](https://github.com/mmngreco/mmngreco.github.io-source/pulls)! ;-)
