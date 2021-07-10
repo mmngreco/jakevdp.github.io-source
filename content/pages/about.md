@@ -1,8 +1,8 @@
-title: About
-slug: about
+Title: About
+Slug: about
 Template: about
 
-<img src="/images/mgreco.jpg" align="left" width="150" style="padding-right:20px;"/>
+<img src="/images/avatar_mgreco.jpeg" align="left" width="150" style="padding-right:20px;"/>
 Me llamo Maximiliano Greco.
 
 Soy economista, aprendía a programar en Python durante la carrera para con la
